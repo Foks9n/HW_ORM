@@ -1,0 +1,4 @@
+sqlalchemy
+sqlalchemy.orm
+json
+psycopg2-binary
